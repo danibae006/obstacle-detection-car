@@ -4,7 +4,7 @@
 // GitHub   : https://github.com/danibae006
 // Repo     : https://github.com/danibae006/obstacle-detection-car
 //
-// For wiring & connections, visit the repo
+// For wiring & connections, visit the repo (https://github.com/danibae006/obstacle-detection-car)
 // above and read the README file.
 // It contains full wiring diagrams,
 // component list, and setup instructions.
